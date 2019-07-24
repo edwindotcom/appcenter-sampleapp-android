@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 public class WelcomeActivity extends Fragment {
-    private static final String pageName = "Welcome";
+    private static final String pageName = "Foobar";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
